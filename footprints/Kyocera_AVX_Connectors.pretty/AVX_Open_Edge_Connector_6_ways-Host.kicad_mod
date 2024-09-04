@@ -1,0 +1,174 @@
+(footprint "AVX_Open_Edge_Connector_6_ways-Host"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.05 -8.375 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "b189cb3a-6311-42c9-a27c-2eba7c42bd10")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "AVX_Open_Edge_Connector_6_ways-Host"
+		(at -0.4 7.6 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "12c099c3-dda6-4d53-a99d-afc3bb319c01")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 6.075 2.475 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9119ac5a-b195-4b52-a773-c073da491f15")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 6.075 2.475 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "85f37295-f084-42d0-9eb5-3365c3075469")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 6.075 2.475 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "799dfd80-2edd-44c7-9b27-921dddf55ec5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.3 -2.5)
+		(end -2.75 -2.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "0d089dfc-8b0e-49a3-8d62-a873504072a9")
+	)
+	(fp_line
+		(start -1.3 -2.5)
+		(end -1.3 0.6)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "03994b21-8190-4ea1-9844-f2756564c9b6")
+	)
+	(fp_line
+		(start -1.3 0.6)
+		(end -0.7 0.6)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "9a77400c-53ce-4fc0-8c28-acd36c3dc521")
+	)
+	(fp_line
+		(start -0.7 -2.5)
+		(end 2.75 -2.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "ad6d6500-ba04-46d8-a693-0e12154b37f3")
+	)
+	(fp_line
+		(start -0.7 0.6)
+		(end -0.7 -2.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "6c4d1640-efa4-49b0-8149-30581704b6b5")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.05 10.475 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "c5b0d63f-f9c3-471a-b61b-00c4bc7f92ff")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" connect rect
+		(at -2 0)
+		(size 1 4)
+		(layers "F.Cu" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "076033d6-6ac2-4f4a-bde2-0a30dbe9e661")
+	)
+	(pad "2" connect rect
+		(at 0 0)
+		(size 1 4)
+		(layers "F.Cu" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "ac6b229f-9775-484b-9000-16080e704978")
+	)
+	(pad "3" connect rect
+		(at 2 0)
+		(size 1 4)
+		(layers "F.Cu" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "05617861-d7b4-45fd-a9c0-62a10f60ea8d")
+	)
+	(pad "4" connect rect
+		(at -2 0)
+		(size 1 4)
+		(layers "B.Cu" "B.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "fe7c7699-72cd-45b1-8618-078150cdb595")
+	)
+	(pad "5" connect rect
+		(at 0 0)
+		(size 1 4)
+		(layers "B.Cu" "B.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "d720168e-b9a0-4d93-a4e8-5326f5657e62")
+	)
+	(pad "6" connect rect
+		(at 2 0)
+		(size 1 4)
+		(layers "B.Cu" "B.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "bc8d7184-ebc4-4a8d-8efb-fb66c8cd5e49")
+	)
+)
