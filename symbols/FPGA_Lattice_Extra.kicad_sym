@@ -793,7 +793,7 @@
 			)
 		)
 		(property "Footprint" "Package_BGA_Extra:Lattice_caBGA-256_14.0x14.0mm_Layout16x16_P0.8mm"
-			(at 0 0 0)
+			(at 2.54 -92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1040,6 +1040,7 @@
 						)
 					)
 				)
+				(alternate "PCLKT0_0" bidirectional clock)
 			)
 			(pin bidirectional line
 				(at -25.4 12.7 0)
@@ -1058,6 +1059,7 @@
 						)
 					)
 				)
+				(alternate "PCLKC0_0" bidirectional clock)
 			)
 			(pin bidirectional line
 				(at -25.4 -17.78 0)
@@ -1292,6 +1294,7 @@
 						)
 					)
 				)
+				(alternate "PCLKC0_0" bidirectional clock)
 			)
 			(pin bidirectional line
 				(at -25.4 -5.08 0)
@@ -1310,6 +1313,7 @@
 						)
 					)
 				)
+				(alternate "PCLKC1_0" bidirectional clock)
 			)
 			(pin bidirectional line
 				(at -25.4 -7.62 0)
@@ -1526,6 +1530,7 @@
 						)
 					)
 				)
+				(alternate "PCLKT0_1" bidirectional clock)
 			)
 			(pin bidirectional line
 				(at -25.4 -2.54 0)
@@ -1544,6 +1549,7 @@
 						)
 					)
 				)
+				(alternate "PCLKT1_0" bidirectional clock)
 			)
 			(pin bidirectional line
 				(at -25.4 -10.16 0)
@@ -1742,6 +1748,7 @@
 						)
 					)
 				)
+				(alternate "PCLK0_0" output clock)
 			)
 			(pin bidirectional line
 				(at -25.4 0 0)
@@ -1760,6 +1767,7 @@
 						)
 					)
 				)
+				(alternate "PCLKC1_1" bidirectional clock)
 			)
 			(pin bidirectional line
 				(at -25.4 -12.7 0)
@@ -1976,6 +1984,7 @@
 						)
 					)
 				)
+				(alternate "PCLK0_1" output clock)
 			)
 			(pin bidirectional line
 				(at -25.4 2.54 0)
@@ -1994,6 +2003,7 @@
 						)
 					)
 				)
+				(alternate "PCLKT1_1" bidirectional clock)
 			)
 			(pin bidirectional line
 				(at -25.4 -15.24 0)
@@ -2264,6 +2274,7 @@
 						)
 					)
 				)
+				(alternate "PCLK2_1" output clock)
 			)
 			(pin power_in line
 				(at 25.4 -2.54 180)
@@ -2426,6 +2437,7 @@
 						)
 					)
 				)
+				(alternate "PCLK2_0" output clock)
 			)
 			(pin bidirectional line
 				(at 25.4 -81.28 180)
@@ -2516,6 +2528,7 @@
 						)
 					)
 				)
+				(alternate "PCLK3_0" output clock)
 			)
 			(pin bidirectional line
 				(at 25.4 -76.2 180)
@@ -2624,6 +2637,7 @@
 						)
 					)
 				)
+				(alternate "PCLK3_1" output clock)
 			)
 			(pin bidirectional line
 				(at 25.4 55.88 180)
@@ -3431,6 +3445,7 @@
 						)
 					)
 				)
+				(alternate "GR_PCLK7_1" output clock)
 			)
 			(pin bidirectional line
 				(at -25.4 38.1 0)
@@ -3629,6 +3644,7 @@
 						)
 					)
 				)
+				(alternate "PCLKT7_1" output clock)
 			)
 			(pin bidirectional line
 				(at -25.4 7.62 0)
@@ -3665,6 +3681,7 @@
 						)
 					)
 				)
+				(alternate "GR_PCLK7_0" output clock)
 			)
 			(pin bidirectional line
 				(at -25.4 25.4 0)
@@ -3809,6 +3826,7 @@
 						)
 					)
 				)
+				(alternate "PCLK6_0" power_out clock)
 			)
 			(pin bidirectional line
 				(at -25.4 -20.32 0)
@@ -3901,6 +3919,7 @@
 						)
 					)
 				)
+				(alternate "PCLK6_1" output clock)
 			)
 			(pin bidirectional line
 				(at -25.4 -25.4 0)
