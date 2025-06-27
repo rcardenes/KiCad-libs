@@ -1,0 +1,18 @@
+.TPS65270PWPR :1 ;2 Buck Converter with 4.5V to 16V Input Voltage, 2A/3A Output Current
+SOP65P640X120-25N
+*STM IC
+*NGS
+*PLB 1="EN1" 2="FB1" 3="SS1" 4="COMP1" 5="LOW_P" 6="VCC" 7="AGND" 8="ROSC" 9="COMP2" 10="SS2" 11="FB2" 12="EN2" 13="BST2" 14="VIN2" 15="LX2_1" 16="LX2_2" 17="GND_1" 18="GND_2" 19="GND_3" 20="GND_4" 21="LX1_1" 22="LX1_2" 23="VIN1" 24="BST1" 25="EP"
+*MXP 25
+*DFN TPS65270PWPR
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TPS65270PWPR)
+~!Mouser Part Number (595-TPS65270PWPR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS65270PWPR?qs=0wAdyr7iVNgXpMrCa5cV8g%3D%3D)
+~!Arrow Part Number (TPS65270PWPR)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/tps65270pwpr/texas-instruments)
+~!Link Datasheet (http://www.ti.com/lit/gpn/tps65270)
+~!Height (1.2mm)
+~!3D_Model (TPS65270PWPR)
+TPS65270PWPR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 25.1!U 24.1!U 23.1!U 22.1!U 21.1!U 20.1!U 19.1!U 18.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 

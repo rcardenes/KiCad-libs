@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS65270PWPR
+D 2 Buck Converter with 4.5V to 16V Input Voltage, 2A/3A Output Current
+K
+F http://www.ti.com/lit/gpn/tps65270
+$ENDCMP
+#
+#End Doc Library

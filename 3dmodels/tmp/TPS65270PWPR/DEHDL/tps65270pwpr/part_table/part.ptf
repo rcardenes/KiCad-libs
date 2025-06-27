@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TPS65270PWPR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "TPS65270PWPR" (!) = "", "SOP65P640X120-25N", "Small Outline Packages", "595-TPS65270PWPR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS65270PWPR?qs=0wAdyr7iVNgXpMrCa5cV8g%3D%3D", "TPS65270PWPR", "https://www.arrow.com/en/products/tps65270pwpr/texas-instruments", "2 Buck Converter with 4.5V to 16V Input Voltage, 2A/3A Output Current", "http://www.ti.com/lit/gpn/tps65270", "1.2 mm"
+END_PART
+
+END.

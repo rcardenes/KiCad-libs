@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TPS65270PWPR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=25
+Version=1.1
+Released=2021-04-30 06:17:51
+Downloaded=2025-06-10 02:41:48
+3D=Y
